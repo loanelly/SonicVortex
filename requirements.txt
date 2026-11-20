@@ -1,0 +1,6 @@
+moderngl
+pygame-ce
+numpy
+librosa
+imageio-ffmpeg
+scipy

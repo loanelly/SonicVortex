@@ -1,0 +1,22 @@
+# Python virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Generated media and render artifacts
+*.mp4
+*.mov
+*.wav
+*.mp3
+temp_*
+.*.temp_video.*
+*.hits.wav
